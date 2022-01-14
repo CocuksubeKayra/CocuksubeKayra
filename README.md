@@ -1,5 +1,6 @@
-    <p align="center">
 <img src="https://cdn.discordapp.com/attachments/919638135183400960/931616735398879232/hayatsz_oyuncu_banner.jpg" alt="hei"/>
+
+print("━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━")
 
 <p align="center">
  <a href="https://discord.com/users/919634644125761646"><img src="https://img.shields.io/badge/HAYATSIZ OYUNCU%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
