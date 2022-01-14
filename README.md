@@ -21,4 +21,4 @@ class HayatsızOyuncu{
 <img src="https://komarev.com/ghpvc/?username=Heixd&label=Ziyaretçi%20Sayısı&color=552b75" alt="Hayatsız Oyuncu" />
 
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/919638135183400960/931616735398879232/hayatsz_oyuncu_banner.jpg" alt="Hayatsız Oyuncu"/>
+<img src="https://cdn.discordapp.com/attachments/919638135183400960/931617719936253972/hayatsz_oyuncu_banner.png" alt="Hayatsız Oyuncu"/>
