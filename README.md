@@ -1,8 +1,8 @@
 ```
-class HayatsizOyuncu{
+class Hei{
   constructor(...options) {
-    this.height = "1.72"
-    this.weight = "66"
+    this.height = "1.78"
+    this.weight = "54"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
