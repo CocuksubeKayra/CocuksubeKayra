@@ -1,4 +1,4 @@
-```
+```js
 class Hei{
   constructor(...options) {
     this.height = "1.78"
