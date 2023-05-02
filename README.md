@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1053633376243953744/1066465842205818950/Screenshot_36.png" alt="hei"/>
+<img src="https://cdn.discordapp.com/attachments/1097559635113816125/1103065293070291005/Yeni_Proje_17.png" alt="Krysiekz"/>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
