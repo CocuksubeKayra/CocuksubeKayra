@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1250475373502791702/1268007964099215360/2021324243.pngex=66aadbf1&is=66a98a71&hm=ac65d25649b507b3097e217810c444f37f1ad79ff76ed96cf90a0dfbdfd280b8&=&format=webp&quality=lossless&width=939&height=559" alt="Krysiekz"/>
+![](https://cdn.discordapp.com/attachments/1250475373502791702/1268008663126380615/2021324243.png?ex=66aadc97&is=66a98b17&hm=d995960daaa19b3d132b74a242fe89adc7fc3f2b95b30aeb680a872373096833&)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
