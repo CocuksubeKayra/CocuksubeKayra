@@ -9,7 +9,7 @@
  <a href="https://x.com/Krysiekz_07" target"blank_"><img src="https://img.shields.io/badge/KRYSIEKZ-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>
  <a href="https://www.twitch.tv/krysiekz" target"blank_"><img src="https://img.shields.io/badge/KRYSIEKZ-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 
- ━━━━━━━━━━━━━━━━━━━━━━━━━━━LANGUAGES━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━LANGUAGES━━━━━━━━━━━━━━━━━━━━━━━━━━
  
 <p align="center">
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
